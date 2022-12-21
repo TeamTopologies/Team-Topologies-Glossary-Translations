@@ -2,12 +2,12 @@
 | --------------- | --------------- | ------------- |
 | API (application programming interface) | ||
 | application monolith | ||
-| bounded context | ||
-| Brooks’s law | ||
-| cognitive load | ||
-| collaboration mode | ||
-| complicated-subsystem team | ||
-| Conway’s law | ||
+| bounded context | Contexto Delimitado ||
+| Brooks’s law | Lei de Brook ||
+| cognitive load | Carga Cognitiva ||
+| collaboration mode | Modo de Colaboração ||
+| complicated-subsystem team | Time de Subsistemas Complicados ||
+| Conway’s law | Lei de Conway ||
 | domain complexity | ||
 | Dunbar’s number | ||
 | enabling team | ||
