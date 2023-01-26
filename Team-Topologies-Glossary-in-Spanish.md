@@ -32,5 +32,7 @@
 | thinnest viable platform | |
 | X-as-a-Service mode | modo X-como-um-Servicio |
 
-Sources:
+## References
 https://aws.amazon.com/es/what-is/api/
+https://www.javiergarzas.com/2021/09/el-impacto-de-la-carga-cognitiva-en-el-diseno-de-equipos-agiles.html
+https://blog.jmbeas.es/2020/07/26/la-ley-de-conway-para-disenar-organizaciones-agiles/
