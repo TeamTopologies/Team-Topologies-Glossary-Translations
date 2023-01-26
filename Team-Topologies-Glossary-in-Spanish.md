@@ -29,7 +29,7 @@
 | stream-aligned team |  |
 | team API | |
 | Team Topologies | |
-| thinnest viable platform | |
+| thinnest viable platform | plataforma minima viable |
 | X-as-a-Service mode | modo X-como-um-Servicio |
 
 ## References
