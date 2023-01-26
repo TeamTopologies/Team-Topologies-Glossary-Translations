@@ -21,13 +21,13 @@
 | monolithic build | construção monolítica | necessita de um build gigante na esteira de integração contínua (CI) para implantar uma nova versão de um componente. |
 | monolithic model | modelo monolítico | software que tenta forçar uma única linguagem de domínio e representação (formato) através de diversos contextos diferentes. |
 | monolithic release | lançamento monolítico | um conjunto de componentes menores empacotados juntos numa entrega. |
-| monolithic thinking | pensamento monolítico | pensamento de time "tamanho-único" que leva a restrições desnecessárias nas tecnologias e nas abordagens de implementação entre os times. |
-| monolithic workplace | local de trabalho monolítico | um único padrão de leiaute de escritório para todos os times e indivíduos no mesmo local geográfico. |
-| organizational sensing | percepção organizacional | times e suas comunicações internas e externas são os "sentidos" da organização (visão, audição, tato, olfato e paladar). |
-| platform team | time de plataforma | auxiliam os times alinhados ao fluxo (stream-aligned) a entregar seu trabalho com grande autonomia. |
-| reverse Conway maneuver | manobra reversa de Conway | organizações devem evoluir suas estruturas organizacionais e de time para alcançar a arquitetura desejada. |
-| stream-aligned team | time alinhado ao fluxo | um time alinhado à um único fluxo de valor de trabalho |
-| team API | API do time | Uma API em torno de cada time. |
-| Team Topologies | Topologia de Times | um modelo para desenho organizacional que fornece um mecanismo chave, tecnologicamente agnóstico, para empresas modernas que desenvolvem software intensivamente e que auxilia a perceber quando uma mudança na estratégia é necessária (seja do ponto de vista de negócios ou de tecnologia).  |
-| thinnest viable platform | menor plataforma viável | um balanço cuidadoso para manter a plataforma pequena e ao mesmo tempo, garantir que essa plataforma esteja auxiliando a acelerar e simplificar o processo de entrega de software dos times que utilizam essa plataforma. |
+| monolithic thinking | pensamento monolítico | pensamento de equipe "tamanho-único" que leva a restrições desnecessárias nas tecnologias e nas abordagens de implementação entre as equipes. |
+| monolithic workplace | local de trabalho monolítico | um único padrão de leiaute de escritório para todas as equipes e indivíduos no mesmo local geográfico. |
+| organizational sensing | percepção organizacional | equipes e suas comunicações internas e externas são os "sentidos" da organização (visão, audição, tato, olfato e paladar). |
+| platform team | equipe de plataforma | auxiliam as equipas alinhadas ao fluxo (stream-aligned) a entregar seu trabalho com grande autonomia. |
+| reverse Conway maneuver | manobra reversa de Conway | organizações devem evoluir suas estruturas organizacionais e de equipes para alcançar a arquitetura desejada. |
+| stream-aligned team | equipe alinhado ao fluxo | uma equipe alinhada à um único fluxo de valor de trabalho |
+| team API | API de equipe | Uma API em torno de cada equipe. |
+| Team Topologies | Topologia de Equipes | um modelo para desenho organizacional que fornece um mecanismo chave, tecnologicamente agnóstico, para empresas modernas que desenvolvem software intensivamente e que auxilia a perceber quando uma mudança na estratégia é necessária (seja do ponto de vista de negócios ou de tecnologia).  |
+| thinnest viable platform | menor plataforma viável | um balanço cuidadoso para manter a plataforma pequena e ao mesmo tempo, garantir que essa plataforma esteja auxiliando a acelerar e simplificar o processo de entrega de software das equipes que utilizam essa plataforma. |
 | X-as-a-Service mode | modo X-como-um-Serviço | consumir ou fornecer algo com a mínima colaboração possível. |
