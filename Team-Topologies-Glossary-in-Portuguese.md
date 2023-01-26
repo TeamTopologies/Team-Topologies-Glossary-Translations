@@ -3,16 +3,16 @@
 | API (application programming interface) | API (interface de programação de aplicações) | uma descrição e especificação de como interagir programaticamente com software.|
 | application monolith | aplicação monólito | uma única e grande aplicação com muitas dependências e responsabilidades e que possivelmente expõe muitos serviços e/ou diferentes jornadas de usuário. |
 | bounded context | contexto delimitado | uma unidade de particionamento de um modelo de domínio (ou sistema) grande em partes menores, cada qual representando internamente uma área de domínio de negócios consistente. |
-| Brooks’s law | lei de Brooks | lei cunhada por Fred Brooks que afirma que acrescentar novas pessoas a um time não aumenta imediatamente a capacidade deste time. |
+| Brooks’s law | lei de Brooks | lei cunhada por Fred Brooks que afirma que acrescentar novas pessoas a uma equipe não aumenta imediatamente a capacidade desta equipe. |
 | cognitive load | carga cognitiva | a quantidade da memória de trabalho sendo utilizada. |
-| collaboration mode | modo colaborativo | time(s) trabalhando estreitamente junto com um outro time. |
-| complicated-subsystem team | time de subsistemas complicados | Um time de subsistemas complicados é responsável por construir e manter uma parte do sistema que depende de habilidades e conhecimentos específicos. |
+| collaboration mode | modo colaborativo | equipe(s) trabalhando estreitamente junto com uma outra equipe. |
+| complicated-subsystem team | equipe de subsistemas complicados | Uma equipe de subsistemas complicados é responsável por construir e manter uma parte do sistema que depende de habilidades e conhecimentos específicos. |
 | Conway’s law | lei de Conway | lei cunhada por Mel Conway que afirma que o design do sistema copiará as estruturas de comunicação da organização que o projeta. |
 | domain complexity | complexidade do domínio | o quão complexo é o problema que está sendo solucionado pelo software. |
 | Dunbar’s number | número de Dunbar | cunhado pelo antropólogo Robin Dunbar que afirma que quinze é o limite de pessoas que uma pessoa pode confiar; dessas, apenas cerca de cinco podem ser intimamente conhecidas e confiáveis. |
-| enabling team | time habilitador | time(s) composto(s) de especialistas em um determinado domínio técnico ou produto; eles ajudam a preencher as lacunas de capacitação. |
+| enabling team | equipe habilitador | equipe(s) composta(s) de especialistas em um determinado domínio técnico ou produto; elas ajudam a preencher as lacunas de capacitação. |
 | extraneous cognitive load | carga cognitiva estranha | relacionadas ao ambiente onde a tarefa está sendo executada (Ex. “Como eu faço a implantação desse componente novamente?”, “Como é a configuração desse serviço?”). |
-| facilitating mode | modo de facilitação | time(s) auxiliando (ou sendo auxiliado por) outro time na retirada de impedimentos. |
+| facilitating mode | modo de facilitação | equipe(s) auxiliando (ou sendo auxiliado por) outros equipes na retirada de impedimentos. |
 | flow of change | fluxo de mudança | um fluxo de atualizações ou alterações relacionadas a um serviço de software ou sistema, geralmente alinhados aos objetivos do usuário ou outro foco central do negócio.  |
 | fracture plane | plano de fratura | uma "emenda" natural no sistema de software que permite que o sistema seja dividido facilmente em duas ou mais partes. |
 | germane cognitive load | carga cognitiva pertinente | relacionado aos aspectos da tarefa que precisam de atenção especial para a aprendizagem ou o alto desempenho (Ex. “Como esse serviço deveria interagir com o serviço ABC?”). |
