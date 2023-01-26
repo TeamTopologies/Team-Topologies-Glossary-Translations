@@ -1,6 +1,6 @@
 | Term in English | Term in Spanish | Usage Example |
 | --------------- | --------------- | ------------- |
-| API (application programming interface) |  |
+| API (application programming interface) | API (interfaz de programación de aplicaciones) |
 | application monolith | monolito aplicacional |
 | bounded context | |
 | Brooks’s law | ley de Brooks |
@@ -31,3 +31,6 @@
 | Team Topologies | |
 | thinnest viable platform | |
 | X-as-a-Service mode | modo X-como-um-Servicio |
+
+Sources:
+https://aws.amazon.com/es/what-is/api/
