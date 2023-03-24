@@ -24,10 +24,10 @@
 | monolithic thinking | ||
 | monolithic workplace | ||
 | organizational sensing | ||
-| platform team | ||
-| reverse Conway maneuver | ||
-| stream-aligned team | ||
-| team API | ||
-| Team Topologies | ||
-| thinnest viable platform | ||
-| X-as-a-Service mode | ||
+| platform team | 平台团队||
+| reverse Conway maneuver | 逆康威定律||
+| stream-aligned team | 流式团队||
+| team API | 团队API ||
+| Team Topologies | 团队拓扑||
+| thinnest viable platform | 最瘦可用平台||
+| X-as-a-Service mode | 一切即服务模式||
