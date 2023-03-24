@@ -1,19 +1,19 @@
 | Term in English | Term in Simplified Chinese | Usage Example |
 | --------------- | --------------- | ------------- |
-| API (application programming interface) | ||
-| application monolith | ||
-| bounded context | ||
+| API (application programming interface) | API(应用程序接口) ||
+| application monolith | 单体应用 ||
+| bounded context | 上下文有关||
 | Brooks’s law | ||
-| cognitive load | ||
-| collaboration mode | ||
-| complicated-subsystem team | ||
-| Conway’s law | ||
-| domain complexity | ||
+| cognitive load | 认知负荷 ||
+| collaboration mode |协作模式 ||
+| complicated-subsystem team | 复杂子系统团队||
+| Conway’s law | 康威定律||
+| domain complexity | 领域复杂度||
 | Dunbar’s number | ||
-| enabling team | ||
-| extraneous cognitive load | ||
+| enabling team | 赋能团队||
+| extraneous cognitive load |外部认知负荷 ||
 | facilitating mode | ||
-| flow of change | ||
+| flow of change | 变更流||
 | fracture plane | ||
 | germane cognitive load | ||
 | intrinsic cognitive load | ||
