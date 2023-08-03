@@ -2,13 +2,13 @@
 | --------------- | --------------- | ------------- |
 | API (application programming interface) | API (interfaz de programación de aplicaciones) |
 | application monolith | monolito aplicacional |
-| bounded context | |
+| bounded context | contexto acotado|
 | Brooks’s law | ley de Brooks |
 | cognitive load | carga cognitiva |
 | collaboration mode | modo de colaboración |
 | complicated-subsystem team | equipo de subsistema complicado |
 | Conway’s law | ley de Conway |
-| domain complexity | complejidade del dominio |
+| domain complexity | dominio complejo |
 | Dunbar’s number | número de Dunbar |
 | enabling team | equipo habilitador |
 | extraneous cognitive load | carga cognitiva extrínseca |
@@ -18,7 +18,7 @@
 | germane cognitive load | carga cognitiva pertinente |
 | intrinsic cognitive load | carga cognitiva intrínseca |
 | joined-at-the-database monolith | monolito unidos-por-la-base-de-datos |
-| monolithic build | build monolítico |
+| monolithic build | compilación / Construccion monolítico |
 | monolithic model | modelo monolítico |
 | monolithic release | release monolítica |
 | monolithic thinking | pensamiento monolítico |
@@ -26,9 +26,9 @@
 | organizational sensing |  |
 | platform team | equipo de plataforma |
 | reverse Conway maneuver | maniobra de Conway al revés |
-| stream-aligned team |  |
+| stream-aligned team | equipo alineado a Valor |
 | team API | |
-| Team Topologies | |
+| Team Topologies | Topologia de equipos |
 | thinnest viable platform | plataforma minima viable |
 | X-as-a-Service mode | modo X-como-um-Servicio |
 
