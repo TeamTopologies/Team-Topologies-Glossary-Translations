@@ -28,6 +28,7 @@
 | reverse Conway maneuver | manobra reversa de Conway | organizações devem evoluir suas estruturas organizacionais e de equipes para alcançar a arquitetura desejada. |
 | stream-aligned team | equipe alinhada ao fluxo | uma equipe alinhada à um único fluxo de valor de trabalho |
 | team API | API de equipe | Uma API em torno de cada equipe. |
-| Team Topologies | Team Topologies * | ** do not translate ** um modelo para desenho organizacional que fornece um mecanismo chave, tecnologicamente agnóstico, para empresas modernas que desenvolvem software intensivamente e que auxilia a perceber quando uma mudança na estratégia é necessária (seja do ponto de vista de negócios ou de tecnologia).  |
+| team topology | topologia de equipes | "esse diagram ilustra a nossa topologia de equipes actual" |
+| Team Topologies | Team Topologies * | * this is a brand, do not translate |
 | thinnest viable platform | menor plataforma viável | um balanço cuidadoso para manter a plataforma pequena e ao mesmo tempo, garantir que essa plataforma esteja auxiliando a acelerar e simplificar o processo de entrega de software das equipes que utilizam essa plataforma. |
 | X-as-a-Service mode | modo X-como-um-Serviço | consumir ou fornecer algo com a mínima colaboração possível. |
