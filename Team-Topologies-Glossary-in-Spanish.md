@@ -20,7 +20,7 @@
 | joined-at-the-database monolith | monolito acoplado-por-la-base-de-datos |
 | monolithic build | construcción monolítica |
 | monolithic model | modelo monolítico |
-| monolithic release | release monolítica |
+| monolithic release | entrega monolítica |
 | monolithic thinking | pensamiento monolítico |
 | monolithic workplace | espacio de trabajo monolítico |
 | organizational sensing | percepción organizacional |
