@@ -10,7 +10,7 @@
 | Conway’s law | lei de Conway | lei cunhada por Mel Conway que afirma que o design do sistema copiará as estruturas de comunicação da organização que o projeta. |
 | domain complexity | complexidade do domínio | o quão complexo é o problema que está sendo solucionado pelo software. |
 | Dunbar’s number | número de Dunbar | cunhado pelo antropólogo Robin Dunbar que afirma que quinze é o limite de pessoas que uma pessoa pode confiar; dessas, apenas cerca de cinco podem ser intimamente conhecidas e confiáveis. |
-| enabling team | equipe habilitador | equipe(s) composta(s) de especialistas em um determinado domínio técnico ou produto; elas ajudam a preencher as lacunas de capacitação. |
+| enabling team | equipe habilitadora | equipe(s) composta(s) de especialistas em um determinado domínio técnico ou de produto; elas ajudam a preencher as lacunas de capacitação. |
 | extraneous cognitive load | carga cognitiva estranha | relacionadas ao ambiente onde a tarefa está sendo executada (Ex. “Como eu faço a implantação desse componente novamente?”, “Como é a configuração desse serviço?”). |
 | facilitating mode | modo de facilitação | equipe(s) auxiliando (ou sendo auxiliado por) outros equipes na retirada de impedimentos. |
 | flow of change | fluxo de mudança | um fluxo de atualizações ou alterações relacionadas a um serviço de software ou sistema, geralmente alinhados aos objetivos do usuário ou outro foco central do negócio.  |
@@ -26,7 +26,7 @@
 | organizational sensing | percepção organizacional | equipes e suas comunicações internas e externas são os "sentidos" da organização (visão, audição, tato, olfato e paladar). |
 | platform team | equipe de plataforma | auxiliam as equipas alinhadas ao fluxo (stream-aligned) a entregar seu trabalho com grande autonomia. |
 | reverse Conway maneuver | manobra reversa de Conway | organizações devem evoluir suas estruturas organizacionais e de equipes para alcançar a arquitetura desejada. |
-| stream-aligned team | equipe alinhado ao fluxo | uma equipe alinhada à um único fluxo de valor de trabalho |
+| stream-aligned team | equipe alinhada ao fluxo | uma equipe alinhada à um único fluxo de valor de trabalho |
 | team API | API de equipe | Uma API em torno de cada equipe. |
 | Team Topologies | Topologia de Equipes | um modelo para desenho organizacional que fornece um mecanismo chave, tecnologicamente agnóstico, para empresas modernas que desenvolvem software intensivamente e que auxilia a perceber quando uma mudança na estratégia é necessária (seja do ponto de vista de negócios ou de tecnologia).  |
 | thinnest viable platform | menor plataforma viável | um balanço cuidadoso para manter a plataforma pequena e ao mesmo tempo, garantir que essa plataforma esteja auxiliando a acelerar e simplificar o processo de entrega de software das equipes que utilizam essa plataforma. |
