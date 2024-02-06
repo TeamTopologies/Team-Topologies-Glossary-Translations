@@ -23,11 +23,11 @@
 | monolithic release | release monolítica |
 | monolithic thinking | pensamiento monolítico |
 | monolithic workplace | espacio de trabajo monolítico |
-| organizational sensing |  |
+| organizational sensing | percepción organizacional |
 | platform team | equipo de plataforma |
 | reverse Conway maneuver | maniobra de Conway al revés |
 | stream-aligned team | equipo alineado a Valor |
-| team API | |
+| team API | API del equipo |
 | Team Topologies | Topologia de equipos |
 | thinnest viable platform | plataforma minima viable |
 | X-as-a-Service mode | modo X-como-um-Servicio |
