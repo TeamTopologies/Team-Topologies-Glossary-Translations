@@ -1,7 +1,7 @@
 | Term in English | Term in Portuguese | Usage Example |
 | --------------- | --------------- | ------------- |
 | API (application programming interface) | API (interface de programação de aplicações) | uma descrição e especificação de como interagir programaticamente com software.|
-| application monolith | monólito aplicacional | uma única e grande aplicação com muitas dependências e responsabilidades e que possivelmente expõe muitos serviços e/ou diferentes jornadas de usuário. |
+| application monolith | aplicação monólitica | uma única e grande aplicação com muitas dependências e responsabilidades e que possivelmente expõe muitos serviços e/ou diferentes jornadas de usuário. |
 | bounded context | contexto delimitado | uma unidade de particionamento de um modelo de domínio (ou sistema) grande em partes menores, cada qual representando internamente uma área de domínio de negócios consistente. |
 | Brooks’s law | lei de Brooks | lei cunhada por Fred Brooks que afirma que acrescentar novas pessoas a uma equipe não aumenta imediatamente a capacidade desta equipe. |
 | cognitive load | carga cognitiva | a quantidade da memória de trabalho sendo utilizada. |
