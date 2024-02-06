@@ -11,7 +11,7 @@
 | domain complexity | complexidade do domínio | o quão complexo é o problema que está sendo solucionado pelo software. |
 | Dunbar’s number | número de Dunbar | cunhado pelo antropólogo Robin Dunbar que afirma que quinze é o limite de pessoas que uma pessoa pode confiar; dessas, apenas cerca de cinco podem ser intimamente conhecidas e confiáveis. |
 | enabling team | equipe habilitadora | equipe(s) composta(s) de especialistas em um determinado domínio técnico ou de produto; elas ajudam a preencher as lacunas de capacitação. |
-| extraneous cognitive load | carga cognitiva alheia | relacionadas ao ambiente onde a tarefa está sendo executada (Ex. “Como eu faço a implantação desse componente novamente?”, “Como é a configuração desse serviço?”). |
+| extraneous cognitive load | carga cognitiva extrínseca | relacionadas ao ambiente onde a tarefa está sendo executada (Ex. “Como eu faço a implantação desse componente novamente?”, “Como é a configuração desse serviço?”). |
 | facilitating mode | modo de facilitação | equipe(s) auxiliando (ou sendo auxiliado por) outros equipes na retirada de impedimentos. |
 | flow of change | fluxo de mudança | um fluxo de atualizações ou alterações relacionadas a um serviço de software ou sistema, geralmente alinhados aos objetivos do usuário ou outro foco central do negócio.  |
 | fracture plane | plano de fratura | uma "emenda" natural no sistema de software que permite que o sistema seja dividido facilmente em duas ou mais partes. |
