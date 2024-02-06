@@ -8,7 +8,7 @@
 | collaboration mode | modo de colaboración |
 | complicated-subsystem team | equipo de subsistema complicado |
 | Conway’s law | ley de Conway |
-| domain complexity | dominio complejo |
+| domain complexity | complejidad del dominio |
 | Dunbar’s number | número de Dunbar |
 | enabling team | equipo habilitador |
 | extraneous cognitive load | carga cognitiva extrínseca |
