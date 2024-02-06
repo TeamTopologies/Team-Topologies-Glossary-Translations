@@ -18,7 +18,7 @@
 | germane cognitive load | carga cognitiva pertinente |
 | intrinsic cognitive load | carga cognitiva intrínseca |
 | joined-at-the-database monolith | monolito acoplado-por-la-base-de-datos |
-| monolithic build | compilación / Construccion monolítico |
+| monolithic build | construcción monolítica |
 | monolithic model | modelo monolítico |
 | monolithic release | release monolítica |
 | monolithic thinking | pensamiento monolítico |
