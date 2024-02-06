@@ -7,9 +7,9 @@ Canonical translations of the glossary from the [Team Topologies book by Matthew
 * [German](Team-Topologies-Glossary-in-German.md)
 * [Japanese](Team-Topologies-Glossary-in-Japanese.md) [IN PROGRESS]
 * [Korean](Team-Topologies-Glossary-in-Korean.md) [IN PROGRESS]
-* [Portuguese](Team-Topologies-Glossary-in-Portuguese.md) [IN PROGRESS]
+* [Portuguese](Team-Topologies-Glossary-in-Portuguese.md) [DONE]
 * [Simplified Chinese](Team-Topologies-Glossary-in-Simplified-Chinese.md) [IN PROGRESS]
-* [Spanish](Team-Topologies-Glossary-in-Spanish.md) [IN PROGRESS]
+* [Spanish](Team-Topologies-Glossary-in-Spanish.md) [DONE]
 * More to come!
 
 We welcome suggestions and pull requests!
