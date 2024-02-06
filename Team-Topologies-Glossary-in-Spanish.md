@@ -28,7 +28,7 @@
 | reverse Conway maneuver | maniobra de Conway al revés |
 | stream-aligned team | equipo alineado al flujo |
 | team API | API del equipo |
-| team topology | topología de equipos | "esta es nuestra topología de equipos" |
+| team topology | topología de equipos | "este diagrama es ilustrativo de nuestra topología de equipos actual" |
 | Team Topologies | Team Topologies * | * this is a brand, do not translate |
 | thinnest viable platform | plataforma minima viable |
 | X-as-a-Service mode | modo X-como-um-Servicio |
