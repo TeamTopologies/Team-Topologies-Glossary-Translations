@@ -20,7 +20,7 @@
 | joined-at-the-database monolith | monólito acoplado pela base de dados | composto de várias aplicações ou serviços, todos acoplados a um mesmo esquema de banco de dados, tornando difícil realizar separadamente alterações, testes e implantações. |
 | monolithic build | construção monolítica | necessita de um build gigante na esteira de integração contínua (CI) para implantar uma nova versão de um componente. |
 | monolithic model | modelo monolítico | software que tenta forçar uma única linguagem de domínio e representação (formato) através de diversos contextos diferentes. |
-| monolithic release | lançamento monolítico | um conjunto de componentes menores empacotados juntos numa entrega. |
+| monolithic release | entrega monolítica | um conjunto de componentes menores empacotados juntos numa entrega. |
 | monolithic thinking | pensamento monolítico | pensamento de equipe "tamanho-único" que leva a restrições desnecessárias nas tecnologias e nas abordagens de implementação entre as equipes. |
 | monolithic workplace | local de trabalho monolítico | um único padrão de leiaute de escritório para todas as equipes e indivíduos no mesmo local geográfico. |
 | organizational sensing | percepção organizacional | equipes e suas comunicações internas e externas são os "sentidos" da organização (visão, audição, tato, olfato e paladar). |
