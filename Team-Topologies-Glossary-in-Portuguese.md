@@ -6,7 +6,7 @@
 | Brooks’s law | lei de Brooks | lei cunhada por Fred Brooks que afirma que acrescentar novas pessoas a uma equipe não aumenta imediatamente a capacidade desta equipe. |
 | cognitive load | carga cognitiva | a quantidade da memória de trabalho sendo utilizada. |
 | collaboration mode | modo colaborativo | equipe(s) trabalhando estreitamente junto com uma outra equipe. |
-| complicated-subsystem team | equipe de subsistemas complicados | Uma equipe de subsistemas complicados é responsável por construir e manter uma parte do sistema que depende de habilidades e conhecimentos específicos. |
+| complicated-subsystem team | equipe de subsistema complicado | Uma equipe de subsistema complicado é responsável por construir e manter uma parte do sistema que depende de habilidades e conhecimentos específicos. |
 | Conway’s law | lei de Conway | lei cunhada por Mel Conway que afirma que o design do sistema copiará as estruturas de comunicação da organização que o projeta. |
 | domain complexity | complexidade do domínio | o quão complexo é o problema que está sendo solucionado pelo software. |
 | Dunbar’s number | número de Dunbar | cunhado pelo antropólogo Robin Dunbar que afirma que quinze é o limite de pessoas que uma pessoa pode confiar; dessas, apenas cerca de cinco podem ser intimamente conhecidas e confiáveis. |
