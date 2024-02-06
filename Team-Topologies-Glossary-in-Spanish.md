@@ -17,7 +17,7 @@
 | fracture plane | plano de fractura |
 | germane cognitive load | carga cognitiva pertinente |
 | intrinsic cognitive load | carga cognitiva intrínseca |
-| joined-at-the-database monolith | monolito unidos-por-la-base-de-datos |
+| joined-at-the-database monolith | monolito acoplado-por-la-base-de-datos |
 | monolithic build | compilación / Construccion monolítico |
 | monolithic model | modelo monolítico |
 | monolithic release | release monolítica |
