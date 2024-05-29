@@ -31,7 +31,7 @@
 | team topology | topología de equipos | "este diagrama es ilustrativo de nuestra topología de equipos actual" |
 | Team Topologies | Team Topologies * | * this is a brand, do not translate |
 | thinnest viable platform | plataforma minima viable |
-| X-as-a-Service mode | modo X-como-um-Servicio |
+| X-as-a-Service mode | modo X-como-un-Servicio |
 
 ## References
 https://aws.amazon.com/es/what-is/api/
