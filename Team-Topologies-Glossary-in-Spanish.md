@@ -1,7 +1,7 @@
 | Term in English | Term in Spanish | Usage Example |
 | --------------- | --------------- | ------------- |
 | API (application programming interface) | API (interfaz de programación de aplicaciones) |
-| application monolith | monolito aplicacional |
+| application monolith | aplicación monolítica |
 | bounded context | contexto acotado|
 | Brooks’s law | ley de Brooks |
 | cognitive load | carga cognitiva |
@@ -10,7 +10,7 @@
 | Conway’s law | ley de Conway |
 | domain complexity | complejidad del dominio |
 | Dunbar’s number | número de Dunbar |
-| enabling team | equipo habilitador |
+| enabling team | equipo facilitador |
 | extraneous cognitive load | carga cognitiva extrínseca |
 | facilitating mode | modo de facilitación |
 | flow of change | flujo de cambio |
